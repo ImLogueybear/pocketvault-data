@@ -1,6 +1,6 @@
 {
   "version": "0.16.5",
-  "tag": "v0.16.5",
-  "notes": "Debug build of the TCGChecker Android app (unsigned). Sideload for testing.\n\nBuilt automatically from 6341d0238eeb9f111c6e3e044012b0797885bcb9 by the Android Debug APK workflow.",
-  "publishedAt": "2026-10-11T23:12:32.413Z"
+  "tag": "v0.16.6",
+  "notes": "Debug build of the TCGChecker Android app (unsigned). Sideload for testing.\n\nBuilt automatically from 2631a1ab9d1b2b4e03fec8a682f23dd24860611b by the Android Debug APK workflow.",
+  "publishedAt": "2026-10-12T00:33:56.395Z"
 }
