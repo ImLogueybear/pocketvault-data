@@ -1,6 +1,6 @@
 {
-  "version": "0.16.6",
-  "tag": "v0.16.6",
-  "notes": "Debug build of the TCGChecker Android app (unsigned). Sideload for testing.\n\nBuilt automatically from 0689f86d9f5dae3ad8ff3680cb67854d76556211 by the Android Debug APK workflow.",
-  "publishedAt": "2026-10-12T00:52:38.649Z"
+  "version": "0.16.7",
+  "tag": "v0.16.7",
+  "notes": "Debug build of the Pocket Vault Android app (debug-signed). Sideload for testing.\n\nBuilt locally from 3dc404268b962c76bdc911f51d86a7fb8d616521.",
+  "publishedAt": "2026-10-12T00:59:36.386Z"
 }
