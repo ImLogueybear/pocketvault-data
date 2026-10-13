@@ -1,0 +1,852 @@
+{
+  "format": 1,
+  "exportedAt": "2026-10-13T22:04:15.859Z",
+  "receivedAt": "2026-10-13T22:04:15.734Z",
+  "appVersion": "0.17.1",
+  "scanVersion": 4,
+  "source": "app",
+  "captures": [
+    {
+      "file": "01.jpg",
+      "id": "1791925759594-dqps2h",
+      "createdAt": "2026-10-13T21:09:19.594Z",
+      "status": "ready",
+      "blurry": false,
+      "matches": [
+        {
+          "cardId": "svp-053",
+          "score": 0.9,
+          "name": "Mew ex",
+          "number": "053",
+          "setId": "svp"
+        },
+        {
+          "cardId": "sv01-100",
+          "score": 0.5848803533017151,
+          "name": "Flittle",
+          "number": "100",
+          "setId": "sv01"
+        },
+        {
+          "cardId": "2023sv-9",
+          "score": 0.5811286112570814,
+          "name": "Flittle",
+          "number": "9",
+          "setId": "2023sv"
+        },
+        {
+          "cardId": "swshp-SWSH010",
+          "score": 0.5794968013529617,
+          "name": "Gossifleur",
+          "number": "SWSH010",
+          "setId": "swshp"
+        },
+        {
+          "cardId": "g1-27",
+          "score": 0.5788560801751564,
+          "name": "Raichu",
+          "number": "27",
+          "setId": "g1"
+        }
+      ],
+      "selectedId": "svp-053",
+      "manual": null,
+      "debug": {
+        "scopeSetId": null,
+        "hintName": "IE CFM dia",
+        "hintNumber": null,
+        "blur": 1885.4311053684432,
+        "refCount": 25329,
+        "appVersion": "0.17.1",
+        "ai": {
+          "cardId": "svp-053",
+          "name": "Mew ex",
+          "number": "053"
+        }
+      }
+    },
+    {
+      "file": "02.jpg",
+      "id": "1791925827686-n8oyj1",
+      "createdAt": "2026-10-13T21:10:27.686Z",
+      "status": "ready",
+      "blurry": false,
+      "matches": [
+        {
+          "cardId": "svp-053",
+          "score": 0.6483798859728092,
+          "name": "Mew ex",
+          "number": "053",
+          "setId": "svp"
+        },
+        {
+          "cardId": "ex3-74",
+          "score": 0.580398119072059,
+          "name": "Spoink",
+          "number": "74",
+          "setId": "ex3"
+        },
+        {
+          "cardId": "dp1-113",
+          "score": 0.5798462875147689,
+          "name": "Rival",
+          "number": "113",
+          "setId": "dp1"
+        },
+        {
+          "cardId": "A1a-074",
+          "score": 0.5785616621313516,
+          "name": "Marshadow",
+          "number": "074",
+          "setId": "A1a"
+        },
+        {
+          "cardId": "dp3-123",
+          "score": 0.5728036748795391,
+          "name": "Professor Rowan",
+          "number": "123",
+          "setId": "dp3"
+        }
+      ],
+      "selectedId": "svp-053",
+      "manual": null,
+      "debug": {
+        "scopeSetId": null,
+        "hintName": "sean i CAE",
+        "hintNumber": null,
+        "blur": 1600.8288201016767,
+        "refCount": 25329,
+        "appVersion": "0.17.1",
+        "ai": null
+      }
+    },
+    {
+      "file": "03.jpg",
+      "id": "1791928653611-54qjpd",
+      "createdAt": "2026-10-13T21:57:33.612Z",
+      "status": "ready",
+      "blurry": false,
+      "matches": [
+        {
+          "cardId": "gym2-7",
+          "score": 0.9,
+          "name": "Giovanni's Nidoking",
+          "number": "7",
+          "setId": "gym2"
+        },
+        {
+          "cardId": "bw4-89",
+          "score": 0.5545248518636494,
+          "name": "Level Ball",
+          "number": "89",
+          "setId": "bw4"
+        },
+        {
+          "cardId": "xy8-132",
+          "score": 0.550482705610362,
+          "name": "Noibat",
+          "number": "132",
+          "setId": "xy8"
+        },
+        {
+          "cardId": "sv03.5-161",
+          "score": 0.5449959792483925,
+          "name": "Giovanni's Charisma",
+          "number": "161",
+          "setId": "sv03.5"
+        },
+        {
+          "cardId": "me01-080",
+          "score": 0.54482254790531,
+          "name": "Marshadow",
+          "number": "080",
+          "setId": "me01"
+        }
+      ],
+      "selectedId": "gym2-7",
+      "manual": null,
+      "debug": {
+        "scopeSetId": null,
+        "hintName": "vanni's Nidoking 120 HP",
+        "hintNumber": null,
+        "blur": 1832.8026001345909,
+        "refCount": 25329,
+        "appVersion": "0.17.1",
+        "ai": {
+          "cardId": "gym2-7",
+          "name": "Giovanni's Nidoking",
+          "number": "7"
+        }
+      }
+    },
+    {
+      "file": "04.jpg",
+      "id": "1791928661235-35ighx",
+      "createdAt": "2026-10-13T21:57:41.235Z",
+      "status": "ready",
+      "blurry": false,
+      "matches": [
+        {
+          "cardId": "neo2-53",
+          "score": 0.8220264647078774,
+          "name": "Caterpie",
+          "number": "53",
+          "setId": "neo2"
+        },
+        {
+          "cardId": "ja-neo2-001",
+          "score": 0.6892544851791687,
+          "name": "キャタピー",
+          "number": "001",
+          "setId": "ja-neo2"
+        },
+        {
+          "cardId": "bw4-88",
+          "score": 0.6388382891618435,
+          "name": "Heavy Ball",
+          "number": "88",
+          "setId": "bw4"
+        },
+        {
+          "cardId": "swsh1-112",
+          "score": 0.6354276439526859,
+          "name": "Clobbopus",
+          "number": "112",
+          "setId": "swsh1"
+        },
+        {
+          "cardId": "swsh12-003",
+          "score": 0.6324478215868787,
+          "name": "Spinarak",
+          "number": "003",
+          "setId": "swsh12"
+        }
+      ],
+      "selectedId": "neo2-53",
+      "manual": null,
+      "debug": {
+        "scopeSetId": null,
+        "hintName": "Rg 7Y",
+        "hintNumber": null,
+        "blur": 2171.50446344185,
+        "refCount": 25329,
+        "appVersion": "0.17.1",
+        "ai": null
+      }
+    },
+    {
+      "file": "05.jpg",
+      "id": "1791928665249-r6bye0",
+      "createdAt": "2026-10-13T21:57:45.249Z",
+      "status": "ready",
+      "blurry": false,
+      "matches": [
+        {
+          "cardId": "ex12-91",
+          "score": 0.9,
+          "name": "Regirock ☆",
+          "number": "91",
+          "setId": "ex12"
+        },
+        {
+          "cardId": "A1-191",
+          "score": 0.6254425932398586,
+          "name": "Spearow",
+          "number": "191",
+          "setId": "A1"
+        },
+        {
+          "cardId": "ja-PCG5-059",
+          "score": 0.6203176327031606,
+          "name": "レジロックスター",
+          "number": "059",
+          "setId": "ja-PCG5"
+        },
+        {
+          "cardId": "B1-023",
+          "score": 0.6158093120307739,
+          "name": "Phantump",
+          "number": "023",
+          "setId": "B1"
+        },
+        {
+          "cardId": "swsh3-3",
+          "score": 0.6140879270144565,
+          "name": "Paras",
+          "number": "3",
+          "setId": "swsh3"
+        }
+      ],
+      "selectedId": "ex12-91",
+      "manual": null,
+      "debug": {
+        "scopeSetId": null,
+        "hintName": "i a OP N",
+        "hintNumber": null,
+        "blur": 2688.194069652555,
+        "refCount": 25329,
+        "appVersion": "0.17.1",
+        "ai": {
+          "cardId": "ex12-91",
+          "name": "Regirock ☆",
+          "number": "91"
+        }
+      }
+    },
+    {
+      "file": "06.jpg",
+      "id": "1791928669228-z2xn7o",
+      "createdAt": "2026-10-13T21:57:49.228Z",
+      "status": "ready",
+      "blurry": false,
+      "matches": [
+        {
+          "cardId": "ja-PMCG3-032",
+          "score": 0.7619518657610369,
+          "name": "スリーパー",
+          "number": "032",
+          "setId": "ja-PMCG3"
+        },
+        {
+          "cardId": "base3-8",
+          "score": 0.743565294181666,
+          "name": "Hypno",
+          "number": "8",
+          "setId": "base3"
+        },
+        {
+          "cardId": "lc-25",
+          "score": 0.7419255404063101,
+          "name": "Hypno",
+          "number": "25",
+          "setId": "lc"
+        },
+        {
+          "cardId": "base3-23",
+          "score": 0.7156849191128213,
+          "name": "Hypno",
+          "number": "23",
+          "setId": "base3"
+        },
+        {
+          "cardId": "bw8-21",
+          "score": 0.6404974889029752,
+          "name": "Litwick",
+          "number": "21",
+          "setId": "bw8"
+        }
+      ],
+      "selectedId": "ja-PMCG3-032",
+      "manual": null,
+      "debug": {
+        "scopeSetId": null,
+        "hintName": "3 PR Ps",
+        "hintNumber": null,
+        "blur": 2499.2634184818467,
+        "refCount": 25329,
+        "appVersion": "0.17.1",
+        "ai": null
+      }
+    },
+    {
+      "file": "07.jpg",
+      "id": "1791928673332-1a98h8",
+      "createdAt": "2026-10-13T21:57:53.332Z",
+      "status": "ready",
+      "blurry": false,
+      "matches": [
+        {
+          "cardId": "ex8-106",
+          "score": 0.7051315173879487,
+          "name": "Latios ☆",
+          "number": "106",
+          "setId": "ex8"
+        },
+        {
+          "cardId": "ex15-3",
+          "score": 0.6615987323394164,
+          "name": "Heracross δ",
+          "number": "3",
+          "setId": "ex15"
+        },
+        {
+          "cardId": "pop7-12",
+          "score": 0.6287047624615874,
+          "name": "Burmy Sandy Cloak",
+          "number": "12",
+          "setId": "pop7"
+        },
+        {
+          "cardId": "ja-PCG2-066",
+          "score": 0.6281780546117309,
+          "name": "ラティオススター",
+          "number": "066",
+          "setId": "ja-PCG2"
+        },
+        {
+          "cardId": "ecard3-53",
+          "score": 0.6263497132589322,
+          "name": "Dunsparce",
+          "number": "53",
+          "setId": "ecard3"
+        }
+      ],
+      "selectedId": "ex8-106",
+      "manual": null,
+      "debug": {
+        "scopeSetId": null,
+        "hintName": "Rie row.",
+        "hintNumber": null,
+        "blur": 3253.3558639290227,
+        "refCount": 25329,
+        "appVersion": "0.17.1",
+        "ai": null
+      }
+    },
+    {
+      "file": "08.jpg",
+      "id": "1791928680881-ru8szv",
+      "createdAt": "2026-10-13T21:58:00.881Z",
+      "status": "ready",
+      "blurry": false,
+      "matches": [
+        {
+          "cardId": "base3-3",
+          "score": 0.751585553223481,
+          "name": "Ditto",
+          "number": "3",
+          "setId": "base3"
+        },
+        {
+          "cardId": "ja-PMCG3-042",
+          "score": 0.7294366218575111,
+          "name": "メタモン",
+          "number": "042",
+          "setId": "ja-PMCG3"
+        },
+        {
+          "cardId": "base3-18",
+          "score": 0.6890332036968552,
+          "name": "Ditto",
+          "number": "18",
+          "setId": "base3"
+        },
+        {
+          "cardId": "xy12-48",
+          "score": 0.6494675322336229,
+          "name": "Haunter",
+          "number": "48",
+          "setId": "xy12"
+        },
+        {
+          "cardId": "xy7-52",
+          "score": 0.6386687234449142,
+          "name": "Ralts",
+          "number": "52",
+          "setId": "xy7"
+        }
+      ],
+      "selectedId": "ja-PMCG3-042",
+      "manual": null,
+      "debug": {
+        "scopeSetId": null,
+        "hintName": "mr We A y",
+        "hintNumber": null,
+        "blur": 2028.8258340374236,
+        "refCount": 25329,
+        "appVersion": "0.17.1",
+        "ai": null
+      }
+    },
+    {
+      "file": "09.jpg",
+      "id": "1791928685440-zleldq",
+      "createdAt": "2026-10-13T21:58:05.440Z",
+      "status": "ready",
+      "blurry": false,
+      "matches": [
+        {
+          "cardId": "ja-PMCG3-041",
+          "score": 0.627900562839799,
+          "name": "プテラ",
+          "number": "041",
+          "setId": "ja-PMCG3"
+        },
+        {
+          "cardId": "base3-1",
+          "score": 0.6230574103052935,
+          "name": "Aerodactyl",
+          "number": "1",
+          "setId": "base3"
+        },
+        {
+          "cardId": "xy12-37",
+          "score": 0.595139125042362,
+          "name": "Magnemite",
+          "number": "37",
+          "setId": "xy12"
+        },
+        {
+          "cardId": "xy12-31",
+          "score": 0.5866027110204569,
+          "name": "Starmie",
+          "number": "31",
+          "setId": "xy12"
+        },
+        {
+          "cardId": "A3-148",
+          "score": 0.5738847212834863,
+          "name": "Acerola",
+          "number": "148",
+          "setId": "A3"
+        }
+      ],
+      "selectedId": "ja-PMCG3-041",
+      "manual": null,
+      "debug": {
+        "scopeSetId": null,
+        "hintName": "RS i k was HP60",
+        "hintNumber": null,
+        "blur": 3201.501079351004,
+        "refCount": 25329,
+        "appVersion": "0.17.1",
+        "ai": null
+      }
+    },
+    {
+      "file": "10.jpg",
+      "id": "1791928689479-k71n0h",
+      "createdAt": "2026-10-13T21:58:09.479Z",
+      "status": "ready",
+      "blurry": false,
+      "matches": [
+        {
+          "cardId": "gym2-2",
+          "score": 0.8710775099472532,
+          "name": "Blaine's Charizard",
+          "number": "2",
+          "setId": "gym2"
+        },
+        {
+          "cardId": "ja-PMCG6-032",
+          "score": 0.6192238104911544,
+          "name": "カツラのリザードン",
+          "number": "032",
+          "setId": "ja-PMCG6"
+        },
+        {
+          "cardId": "sv03-002",
+          "score": 0.5477142732231012,
+          "name": "Gloom",
+          "number": "002",
+          "setId": "sv03"
+        },
+        {
+          "cardId": "swsh3.5-2",
+          "score": 0.5332390872190024,
+          "name": "Weedle",
+          "number": "2",
+          "setId": "swsh3.5"
+        },
+        {
+          "cardId": "ja-PMCG2-002",
+          "score": 0.5145617965728265,
+          "name": "ナゾノクサ",
+          "number": "002",
+          "setId": "ja-PMCG2"
+        }
+      ],
+      "selectedId": "gym2-2",
+      "manual": null,
+      "debug": {
+        "scopeSetId": null,
+        "hintName": "4.5 Blaine’s Charizard",
+        "hintNumber": "2/132",
+        "blur": 3932.5634935405155,
+        "refCount": 25329,
+        "appVersion": "0.17.1",
+        "ai": null
+      }
+    },
+    {
+      "file": "11.jpg",
+      "id": "1791928694410-wbistj",
+      "createdAt": "2026-10-13T21:58:14.410Z",
+      "status": "ready",
+      "blurry": false,
+      "matches": [
+        {
+          "cardId": "gym1-36",
+          "score": 0.8288294152233793,
+          "name": "Blaine's Kangaskhan",
+          "number": "36",
+          "setId": "gym1"
+        },
+        {
+          "cardId": "ja-PMCG6-069",
+          "score": 0.7687707358004952,
+          "name": "カツラのガルーラ",
+          "number": "069",
+          "setId": "ja-PMCG6"
+        },
+        {
+          "cardId": "base1-58",
+          "score": 0.6336637323528503,
+          "name": "Pikachu",
+          "number": "58",
+          "setId": "base1"
+        },
+        {
+          "cardId": "base2-5",
+          "score": 0.620165581347327,
+          "name": "Kangaskhan",
+          "number": "5",
+          "setId": "base2"
+        },
+        {
+          "cardId": "30th-c-010",
+          "score": 0.6117197409243709,
+          "name": "Uxie",
+          "number": "010",
+          "setId": "30th-c"
+        }
+      ],
+      "selectedId": "gym1-36",
+      "manual": null,
+      "debug": {
+        "scopeSetId": null,
+        "hintName": "Basic Pokmon",
+        "hintNumber": null,
+        "blur": 3646.5640358038313,
+        "refCount": 25329,
+        "appVersion": "0.17.1",
+        "ai": null
+      }
+    },
+    {
+      "file": "12.jpg",
+      "id": "1791928709855-43p24v",
+      "createdAt": "2026-10-13T21:58:29.855Z",
+      "status": "ready",
+      "blurry": true,
+      "matches": [
+        {
+          "cardId": "lc-61",
+          "score": 0.7142405603410853,
+          "name": "Raticate",
+          "number": "61",
+          "setId": "lc"
+        },
+        {
+          "cardId": "base4-58",
+          "score": 0.6929821376457052,
+          "name": "Raticate",
+          "number": "58",
+          "setId": "base4"
+        },
+        {
+          "cardId": "xy12-67",
+          "score": 0.6667901188221628,
+          "name": "Raticate",
+          "number": "67",
+          "setId": "xy12"
+        },
+        {
+          "cardId": "ja-PMCG1-062",
+          "score": 0.6331232604508852,
+          "name": "ラッタ",
+          "number": "062",
+          "setId": "ja-PMCG1"
+        },
+        {
+          "cardId": "sv10.5w-165",
+          "score": 0.6140856457619321,
+          "name": "Whimsicott ex",
+          "number": "165",
+          "setId": "sv10.5w"
+        }
+      ],
+      "selectedId": "base1-40",
+      "manual": {
+        "cardId": "base1-40",
+        "name": "Raticate",
+        "number": "40",
+        "setId": "base1"
+      },
+      "debug": {
+        "scopeSetId": null,
+        "hintName": null,
+        "hintNumber": null,
+        "blur": 5.6478922534104825,
+        "refCount": 25329,
+        "appVersion": "0.17.1",
+        "ai": null
+      }
+    },
+    {
+      "file": "13.jpg",
+      "id": "1791928712945-ulf7tx",
+      "createdAt": "2026-10-13T21:58:32.945Z",
+      "status": "ready",
+      "blurry": false,
+      "matches": [
+        {
+          "cardId": "lc-83",
+          "score": 0.8210488024175138,
+          "name": "Nidoran ♂",
+          "number": "83",
+          "setId": "lc"
+        },
+        {
+          "cardId": "base4-83",
+          "score": 0.8158175564376794,
+          "name": "Nidoran♂",
+          "number": "83",
+          "setId": "base4"
+        },
+        {
+          "cardId": "base1-55",
+          "score": 0.7745092699701722,
+          "name": "Nidoran♂",
+          "number": "55",
+          "setId": "base1"
+        },
+        {
+          "cardId": "xy12-43",
+          "score": 0.71142844104859,
+          "name": "Nidoran♂",
+          "number": "43",
+          "setId": "xy12"
+        },
+        {
+          "cardId": "ja-PMCG1-005",
+          "score": 0.662343166469723,
+          "name": "ニドラン♂",
+          "number": "005",
+          "setId": "ja-PMCG1"
+        }
+      ],
+      "selectedId": "base1-55",
+      "manual": null,
+      "debug": {
+        "scopeSetId": null,
+        "hintName": "Basic Pokmon",
+        "hintNumber": "53/100",
+        "blur": 1881.8776459848038,
+        "refCount": 25329,
+        "appVersion": "0.17.1",
+        "ai": null
+      }
+    },
+    {
+      "file": "14.jpg",
+      "id": "1791928716974-kct4fa",
+      "createdAt": "2026-10-13T21:58:36.974Z",
+      "status": "ready",
+      "blurry": false,
+      "matches": [
+        {
+          "cardId": "lc-68",
+          "score": 0.8395881767212541,
+          "name": "Bulbasaur",
+          "number": "68",
+          "setId": "lc"
+        },
+        {
+          "cardId": "base4-67",
+          "score": 0.8272418747134425,
+          "name": "Bulbasaur",
+          "number": "67",
+          "setId": "base4"
+        },
+        {
+          "cardId": "base1-44",
+          "score": 0.7674340840917009,
+          "name": "Bulbasaur",
+          "number": "44",
+          "setId": "base1"
+        },
+        {
+          "cardId": "base3-55",
+          "score": 0.6047016610566128,
+          "name": "Slowpoke",
+          "number": "55",
+          "setId": "base3"
+        },
+        {
+          "cardId": "lc-75",
+          "score": 0.600987492041207,
+          "name": "Exeggcute",
+          "number": "75",
+          "setId": "lc"
+        }
+      ],
+      "selectedId": "base1-44",
+      "manual": null,
+      "debug": {
+        "scopeSetId": null,
+        "hintName": "Basic Pokmon",
+        "hintNumber": null,
+        "blur": 2313.768167423127,
+        "refCount": 25329,
+        "appVersion": "0.17.1",
+        "ai": null
+      }
+    },
+    {
+      "file": "15.jpg",
+      "id": "1791928720313-lj2ksf",
+      "createdAt": "2026-10-13T21:58:40.313Z",
+      "status": "ready",
+      "blurry": false,
+      "matches": [
+        {
+          "cardId": "base4-69",
+          "score": 0.9218351520397559,
+          "name": "Charmander",
+          "number": "69",
+          "setId": "base4"
+        },
+        {
+          "cardId": "lc-70",
+          "score": 0.9019806741206017,
+          "name": "Charmander",
+          "number": "70",
+          "setId": "lc"
+        },
+        {
+          "cardId": "base1-46",
+          "score": 0.8330756227620818,
+          "name": "Charmander",
+          "number": "46",
+          "setId": "base1"
+        },
+        {
+          "cardId": "sm10-48",
+          "score": 0.5388718314015853,
+          "name": "Goldeen",
+          "number": "48",
+          "setId": "sm10"
+        },
+        {
+          "cardId": "base2-48",
+          "score": 0.5104588373533563,
+          "name": "Weepinbell",
+          "number": "48",
+          "setId": "base2"
+        }
+      ],
+      "selectedId": "base1-46",
+      "manual": null,
+      "debug": {
+        "scopeSetId": null,
+        "hintName": "Basi Pokmon",
+        "hintNumber": "48/102",
+        "blur": 1727.470254175297,
+        "refCount": 25329,
+        "appVersion": "0.17.1",
+        "ai": null
+      }
+    }
+  ]
+}
