@@ -1,6 +1,6 @@
 {
-  "version": "0.16.19",
-  "tag": "v0.16.19",
-  "notes": "Debug build of the Pocket Vault Android app (debug-signed). Sideload for testing.\n\nBuilt locally from ced566fa80b4d27fec70135471fc195b3a75f618.",
-  "publishedAt": "2026-10-13T01:50:31.593Z"
+  "version": "0.16.20",
+  "tag": "v0.16.20",
+  "notes": "Debug build of the Pocket Vault Android app (debug-signed). Sideload for testing.\n\nBuilt locally from 1c60fbc262693c0ea4523a7fcb8028e0ae2ceb66.",
+  "publishedAt": "2026-10-13T02:24:54.766Z"
 }
