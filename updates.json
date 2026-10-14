@@ -1,6 +1,6 @@
 {
-  "version": "0.21.0",
-  "tag": "v0.21.0",
-  "notes": "Debug build of the Pocket Vault Android app (debug-signed). Sideload for testing.\n\nBuilt automatically from 3ec99d82c013df25a79e4604307364eb0b7a456d by the Android Debug APK workflow.",
-  "publishedAt": "2026-10-14T19:15:15.939Z"
+  "version": "0.22.0",
+  "tag": "v0.22.0",
+  "notes": "Japanese cards and sets now read entirely in English.\n\n- Every Japanese card carries an English name (harvested from TCG Collector), and\n  the set list, search, card modal, picker, set detail and scan review display\n  English only — no Japanese alongside. Only the ~195 PCG7-9 cards (no TCG\n  Collector page) fall back to their printed name.\n- Set and series headers use curated English names, covering all 118 sets and\n  11 series.\n\nNo scan-index rebuild is required: names are not fingerprinted.",
+  "publishedAt": "2026-10-14T20:57:03.315Z"
 }
