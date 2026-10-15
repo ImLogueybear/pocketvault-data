@@ -1,6 +1,6 @@
 {
-  "version": "0.27.0",
-  "tag": "v0.27.0",
-  "notes": "### Added\n- **Wishlist tab.** A dedicated bottom tab lists wanted cards with their\n  owned/missing status, lets you sort (Recently added / Name / Set) and prune\n  rows without opening each card, and shows an estimated **cost to pick up** the\n  ones you don't own (from cached Near-Mint prices, flagged when partial) with a\n  refresh action.\n\n### Notes\n- No scan-index rebuild required: the descriptor, `SCAN_VERSION`, `DATA_VERSION`\n  and card data are untouched.\n\n---\n\nDebug build of the Pocket Vault Android app (debug-signed). Sideload for testing.\nBuilt locally from fa633804d4fb6bb532d75ef5659034b76620bd00.",
-  "publishedAt": "2026-10-15T19:10:26.964Z"
+  "version": "0.27.1",
+  "tag": "v0.27.1",
+  "notes": "### Fixed\n- **Search tab filter buttons.** The All / Owned / Missing / Duplicates / Wanted\n  buttons now use the app's standard control styling — layered surface, depth and\n  real press states — and the row is centred instead of hugging the left edge.\n\n### Notes\n- No scan-index rebuild required: the descriptor, `SCAN_VERSION`, `DATA_VERSION`\n  and card data are untouched.\n\n---\n\nDebug build of the Pocket Vault Android app (debug-signed). Sideload for testing.\nBuilt locally from 0507a4d7a229852b4ad2ae1a25ab8911459f2993.",
+  "publishedAt": "2026-10-15T20:05:44.011Z"
 }
