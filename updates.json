@@ -1,6 +1,6 @@
 {
-  "version": "0.25.1",
-  "tag": "v0.25.1",
-  "notes": "### Fixed\r\n- **Card modal sheet.** Extra room above the card art so it no longer sits\r\n  against the drag handle at the top of the sheet.\r\n- **Price panel spacing.** The value box is a bordered card again, so its content\r\n  (the \"Value\" label and the full-width button) no longer clips into the rounded\r\n  border, and the \"Owned\" counter now has proper spacing above the box.\r\n\r\n### Notes\r\n- No scan-index rebuild required: the descriptor, `SCAN_VERSION` and the card\r\n  data are untouched; `DATA_VERSION` is unchanged.\n\n---\n\nDebug build of the Pocket Vault Android app (debug-signed). Sideload for testing.\nBuilt locally from 1b87a22d9d0f8f9fe9f91a50d9ad1cc4085d67cf.",
-  "publishedAt": "2026-10-15T12:06:31.899Z"
+  "version": "0.26.0",
+  "tag": "v0.26.0",
+  "notes": "### Added\n- **Per-condition copy tracking.** A card can now be held in several\n  conditions/printings at once — Near Mint, Lightly Played, Damaged, graded, and\n  so on — each with its own quantity, added from the card sheet's \"Add a copy\"\n  form (condition chips + Foil / 1st Edition toggles).\n\n### Changed\n- **Collection backup v2.** Export writes the new `variants` breakdown; import\n  still accepts the old flat backups and folds them into a single bucket.\n- **Automatic migration.** Existing entries become one variant matching their\n  previous condition / foil / 1st-Edition flags — no data loss.\n\n### Notes\n- No scan-index rebuild required: the descriptor, `SCAN_VERSION`, `DATA_VERSION`\n  and card data are untouched.\n\n---\n\nDebug build of the Pocket Vault Android app (debug-signed). Sideload for testing.\nBuilt locally from 40221f5204c203948cc96b8a3dc3cda48f5f0216.",
+  "publishedAt": "2026-10-15T15:18:56.296Z"
 }
