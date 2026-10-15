@@ -1,6 +1,6 @@
 {
-  "version": "0.26.2",
-  "tag": "v0.26.2",
-  "notes": "### Added\n- **Choose the condition while scanning.** The scan review gains an \"Add these\n  as\" row (Near Mint → Graded) that files every card in the queue under one\n  condition, a per-capture condition selector, and Foil / 1st Edition toggles\n  for cards that have them. The last-used condition is remembered.\n- **Duplicate nudge.** A scanned card you already own shows \"You already own\n  ×N\" in the review list before you add another copy.\n\n### Notes\n- No scan-index rebuild required: the descriptor, `SCAN_VERSION` and card data\n  are untouched.\n\n---\n\nDebug build of the Pocket Vault Android app (debug-signed). Sideload for testing.\nBuilt locally from b8ff92990c01feca88339ddb5f9ebda80c04e229.",
-  "publishedAt": "2026-10-15T18:20:04.586Z"
+  "version": "0.27.0",
+  "tag": "v0.27.0",
+  "notes": "### Added\n- **Wishlist tab.** A dedicated bottom tab lists wanted cards with their\n  owned/missing status, lets you sort (Recently added / Name / Set) and prune\n  rows without opening each card, and shows an estimated **cost to pick up** the\n  ones you don't own (from cached Near-Mint prices, flagged when partial) with a\n  refresh action.\n\n### Notes\n- No scan-index rebuild required: the descriptor, `SCAN_VERSION`, `DATA_VERSION`\n  and card data are untouched.\n\n---\n\nDebug build of the Pocket Vault Android app (debug-signed). Sideload for testing.\nBuilt locally from fa633804d4fb6bb532d75ef5659034b76620bd00.",
+  "publishedAt": "2026-10-15T19:10:26.964Z"
 }
