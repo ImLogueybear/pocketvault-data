@@ -1,6 +1,6 @@
 {
-  "version": "0.28.2",
-  "tag": "v0.28.2",
-  "notes": "Roll-up for anyone updating straight from 0.27.1 — the three changes shipped\nacross 0.28.0–0.28.2:\n\n### Removed\n- **Scan review submission** (0.28.0). The Settings section, the submit token\n  and the `cloudflare/scan-submit` Worker are gone; the manual \"Export scan\n  captures\" share flow is unchanged.\n\n### Fixed\n- **Stale build after an APK update** (0.28.1). The service worker shipped\n  inside the APK could keep serving the previous build's files until the app\n  was killed and relaunched; it is now web-only, so a new APK shows its new\n  code on the first launch.\n- **Estimated value cut off on the Sets dashboard** (0.28.2). It now rounds to\n  whole dollars and scales down on narrow screens instead of being ellipsized.\n\n### Notes\n- No scan-index rebuild required: the descriptor, `SCAN_VERSION`, `DATA_VERSION`\n  and card data are untouched.\n\n---\n\nDebug build of the Pocket Vault Android app (debug-signed). Sideload for testing.\nBuilt locally from bc195284235d9fe6be9e0597bbd027af906ef0c9.",
-  "publishedAt": "2026-10-16T04:25:37.193Z"
+  "version": "0.28.3",
+  "tag": "v0.28.3",
+  "notes": "### Removed\n- **Card-data re-import** (Settings → Backup & Data → \"Advanced: re-import card\n  data\"). It only read Wizards-era sets from a Pokémon TCG data JSON file, while\n  the built-in catalogue already ships every supported set. Collection backup\n  export/restore is unchanged, and the \"No card data\" empty state no longer\n  points at the removed tool.\n\n### Notes\n- No scan-index rebuild required: the descriptor, `SCAN_VERSION`, `DATA_VERSION`\n  and card data are untouched.\n\n---\n\nDebug build of the Pocket Vault Android app (debug-signed). Sideload for testing.\nBuilt locally from 6cf8c9a925c089cce4deb42fd79ca212d4a2ef77.",
+  "publishedAt": "2026-10-16T20:53:51.438Z"
 }
