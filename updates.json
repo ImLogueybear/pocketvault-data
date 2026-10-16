@@ -1,6 +1,6 @@
 {
-  "version": "0.27.1",
-  "tag": "v0.27.1",
-  "notes": "### Fixed\n- **Search tab filter buttons.** The All / Owned / Missing / Duplicates / Wanted\n  buttons now use the app's standard control styling — layered surface, depth and\n  real press states — and the row is centred instead of hugging the left edge.\n\n### Notes\n- No scan-index rebuild required: the descriptor, `SCAN_VERSION`, `DATA_VERSION`\n  and card data are untouched.\n\n---\n\nDebug build of the Pocket Vault Android app (debug-signed). Sideload for testing.\nBuilt locally from 0507a4d7a229852b4ad2ae1a25ab8911459f2993.",
-  "publishedAt": "2026-10-15T20:05:44.011Z"
+  "version": "0.28.0",
+  "tag": "v0.28.0",
+  "notes": "### Removed\n- **Scan review submission.** The \"Submit scans for review\" feature is gone\n  entirely: the Settings section and submit token, the share-sheet submit\n  client, and the `cloudflare/scan-submit` Worker. The local scan review queue\n  and the manual \"Export scan captures\" sharing flow are unchanged.\n\n### Notes\n- No scan-index rebuild required: the descriptor, `SCAN_VERSION`, `DATA_VERSION`\n  and card data are untouched.\n\n---\n\nDebug build of the Pocket Vault Android app (debug-signed). Sideload for testing.\nBuilt locally from 437c8fd4e559de9013a61276cd376ada9a7a7015.",
+  "publishedAt": "2026-10-16T00:59:48.841Z"
 }
